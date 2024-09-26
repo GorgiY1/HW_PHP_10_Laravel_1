@@ -12,7 +12,6 @@
 
 <body>
     <div class="form-container">
-        <h1>Объявления</h1>
         @yield('main')
     </div>
 </body>
